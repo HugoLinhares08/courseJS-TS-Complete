@@ -1,0 +1,5 @@
+console.log("sim")
+console.log("sim 'sim'")
+console.log('sim "sim"')
+console.log(`'sim' "sim"`)
+console.log(123, 123141.4151)
