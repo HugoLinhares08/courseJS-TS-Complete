@@ -43,3 +43,5 @@ O conteúdo presente no curso:
 
 -> HTML5 e CSS3 (Bônus Extra)
 ```
+Aulas: 644
+Vídeo: 146 horas no total
